@@ -18,6 +18,10 @@
         public function uzgarish() {
             return "mana shu";
         }
+
+        public function yanaFetch() {
+            return "fetch uchun";
+        }
     }
 
 

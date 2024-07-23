@@ -22,6 +22,10 @@
         public function yanaFetch() {
             return "fetch uchun";
         }
+
+        public function addTwo() {
+            return "Ikkinchi o'zgarishga";
+        }
     }
 
 

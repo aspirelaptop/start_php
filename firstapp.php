@@ -14,6 +14,10 @@
         public function index() {
             return "Mashina markasi: $this->model va rangi: $this->rang";
         }
+
+        public function uzgarish() {
+            return "mana shu";
+        }
     }
 
 

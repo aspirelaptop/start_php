@@ -26,6 +26,11 @@
         public function addTwo() {
             return "Ikkinchi o'zgarishga";
         }
+
+
+        public function bugun() {
+            return "qushildi! 24.07.24";
+        }
     }
 
 
